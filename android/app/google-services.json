@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894595622449",
+    "project_id": "cs-foro",
+    "storage_bucket": "cs-foro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894595622449:android:6f89cf9a52112ef0e09710",
+        "android_client_info": {
+          "package_name": "com.example.cs_foro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAprHbGq2w5AXHGXnULdaxh15iLKqgOA70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
